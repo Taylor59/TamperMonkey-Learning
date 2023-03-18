@@ -5,6 +5,7 @@
 // @description  excise Hello world
 // @author       Zhou
 // @match        *://*
+// @license      AGPL License
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=mozilla.org
 // @grant        none
 // ==/UserScript==

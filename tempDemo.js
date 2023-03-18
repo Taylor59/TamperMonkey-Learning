@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         hello world 
 // @namespace    3042391587@qq.com
-// @version      0.1
+// @version      0.2
 // @description  excise Hello world
 // @author       Zhou
 // @match        *://*
@@ -12,6 +12,6 @@
 
 (function() {
     'use strict';
-        console.log("Hello World");
+        console.log("change version");
     // Your code here...
 })();

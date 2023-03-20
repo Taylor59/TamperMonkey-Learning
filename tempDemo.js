@@ -13,5 +13,8 @@
 (function() {
     'use strict';
         console.log("change version");
+        console.log("hello world");
+        alert("hello world")
+        alert("add alert")
     // Your code here...
 })();
